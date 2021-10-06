@@ -13,7 +13,7 @@ import AEPIdentity
 import AEPLifecycle
 import AEPSignal
 import AEPServices
-import AEPMobileServices_Nike
+import AEPMobileServices
 import Foundation
 
 class AdobeManager {
